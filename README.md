@@ -1,4 +1,4 @@
-# ATPro admin template  HTML + CSS + JS
+# ATPro admin em HTML + CSS + JS
 
 ATPro is a fully responsive administration template. Based on pure HTML, CSS and JS. Customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops.
 
